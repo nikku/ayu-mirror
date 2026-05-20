@@ -1,6 +1,6 @@
 {
   "name": "ayu-mirror",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An ayu codemirror 6 theme",
   "scripts": {
     "all": "run-s lint build test",
